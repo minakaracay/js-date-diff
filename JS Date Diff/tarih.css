@@ -1,0 +1,11 @@
+.tarihler{ /*tarihler isimli class'a vereceğim style*/
+    margin: 10%;
+    margin-left: 35%;
+    border: 1px solid rgb(46, 15, 46);
+    background-color: rgb(46, 15, 46);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 400px;
+}
